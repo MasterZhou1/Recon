@@ -1,7 +1,7 @@
 # <img src="images/ai_economist.png" width="40" alt="AI Economist Icon" /> (Recon) Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs
    
 [Yufa Zhou*†<sup>1</sup>](https://masterzhou1.github.io/), [Shaobo Wang*<sup>2,3</sup>](https://gszfwsb.github.io/), Xingyu Dong*<sup>4</sup>, Xiangqi Jin<sup>2</sup>, Yifang Chen<sup>5</sup>, Yue Min<sup>2</sup>,   
-Xingzhang Ren<sup>3</sup>, Kexin Yang<sup>3</sup>, [Dayiheng Liu<sup>3</sup>](https://dayihengliu.github.io/), [Linfeng Zhang†<sup>2</sup>](http://www.zhanglinfeng.tech/)
+Kexin Yang<sup>3</sup>, Xingzhang Ren<sup>3</sup>, [Dayiheng Liu<sup>3</sup>](https://dayihengliu.github.io/), [Linfeng Zhang†<sup>2</sup>](http://www.zhanglinfeng.tech/)
 
 *Equal contribution, †Corresponding authors   
 <sup>1</sup>Duke University, <sup>2</sup>EPIC Lab, Shanghai Jiao Tong University, <sup>3</sup>Qwen Team, Alibaba Group,   
