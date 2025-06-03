@@ -3,7 +3,7 @@
 [Yufa Zhou*†<sup>1</sup>](https://masterzhou1.github.io/), [Shaobo Wang*<sup>2,3</sup>](https://gszfwsb.github.io/), Xingyu Dong*<sup>4</sup>, Xiangqi Jin<sup>2</sup>, Yifang Chen<sup>5</sup>, Yue Min<sup>2</sup>,   
 Xingzhang Ren<sup>3</sup>, Kexin Yang<sup>3</sup>, [Dayiheng Liu<sup>3</sup>](https://dayihengliu.github.io/), [Linfeng Zhang†<sup>2</sup>](http://www.zhanglinfeng.tech/)
 
-*Equal contribution, †Corresponding author   
+*Equal contribution, †Corresponding authors   
 <sup>1</sup>Duke University, <sup>2</sup>EPIC Lab, Shanghai Jiao Tong University, <sup>3</sup>Qwen Team, Alibaba Group,   
 <sup>4</sup>University of Pennsylvania, <sup>5</sup>The University of Chicago
 
@@ -66,14 +66,12 @@ Recon follows a three-step pipeline:
 If you find Recon helpful for your research, please cite our work:
 
 ```
-@misc{zhou2025recon,
-      title={Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs}, 
-      author={Yufa Zhou and Shaobo Wang and Xingyu Dong and Xiangqi Jin and Yifang Chen and Yue Min and Kexin Yang and Xingzhang Ren and Dayiheng Liu and Linfeng Zhang},
-      year={2025},
-      eprint={2506.00577},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2506.00577}, 
+@article{zhou2025recon,
+  title={Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs},
+  author={Zhou, Yufa and Wang, Shaobo and Dong, Xingyu and Jin, Xiangqi and Chen, Yifang and Min, Yue and Yang, Kexin and Ren, Xingzhang and Liu, Dayiheng and Zhang, Linfeng},
+  journal={arXiv preprint arXiv:2506.00577},
+  year={2025},
+  url={https://arxiv.org/abs/2506.00577}
 }
 ```
 
