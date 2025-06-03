@@ -62,7 +62,7 @@ Our results demonstrate that domain-aligned post-training enables LLMs to genera
 
 ## 📚 Citation
 
-If you find Recon helpful for your research, please cite our work (BibTeX coming soon):
+If you find Recon helpful for your research, please cite our work:
 
 ```
 @misc{zhou2025recon,
