@@ -7,7 +7,7 @@ Xingzhang Ren<sup>3</sup>, Kexin Yang<sup>3</sup>, [Dayiheng Liu<sup>3</sup>](ht
 <sup>1</sup>Duke University, <sup>2</sup>EPIC Lab, Shanghai Jiao Tong University, <sup>3</sup>Qwen Team, Alibaba Group,   
 <sup>4</sup>University of Pennsylvania, <sup>5</sup>The University of Chicago
 
-<!-- [[📄 Paper]](https://arxiv.org/abs/placeholder)   -->
+<!-- [[📄 Paper]](https://arxiv.org/abs/2506.00577)   -->
 
 ---
 
@@ -65,7 +65,15 @@ Our results demonstrate that domain-aligned post-training enables LLMs to genera
 If you find Recon helpful for your research, please cite our work (BibTeX coming soon):
 
 ```
-TBD
+@misc{zhou2025recon,
+      title={Reasoning Like an Economist: Post-Training on Economic Problems Induces Strategic Generalization in LLMs}, 
+      author={Yufa Zhou and Shaobo Wang and Xingyu Dong and Xiangqi Jin and Yifang Chen and Yue Min and Kexin Yang and Xingzhang Ren and Dayiheng Liu and Linfeng Zhang},
+      year={2025},
+      eprint={2506.00577},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2506.00577}, 
+}
 ```
 
 ---
