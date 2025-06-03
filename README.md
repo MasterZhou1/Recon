@@ -7,7 +7,7 @@ Xingzhang Ren<sup>3</sup>, Kexin Yang<sup>3</sup>, [Dayiheng Liu<sup>3</sup>](ht
 <sup>1</sup>Duke University, <sup>2</sup>EPIC Lab, Shanghai Jiao Tong University, <sup>3</sup>Qwen Team, Alibaba Group,   
 <sup>4</sup>University of Pennsylvania, <sup>5</sup>The University of Chicago
 
-<!-- [[📄 Paper]](https://arxiv.org/abs/2506.00577)   -->
+[[📄 Paper]](https://arxiv.org/abs/2506.00577)  
 
 ---
 
