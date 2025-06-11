@@ -8,7 +8,7 @@ Kexin Yang<sup>3</sup>, Xingzhang Ren<sup>3</sup>, [Dayiheng Liu<sup>3</sup>](ht
 <sup>4</sup>University of Pennsylvania, <sup>5</sup>The University of Chicago
 
 [[📄 Paper]](https://arxiv.org/abs/2506.00577)  
-
+[[🤗 HuggingFace Dataset]](https://huggingface.co/datasets/MasterZhou/Recon)
 
 ---
 
